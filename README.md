@@ -16,8 +16,8 @@
  
  ### 📚 I'm currently learning...
  <a href="https://www.javascript.com/" title="JavaScript"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561215-d51e1c92-dcdd-4b62-b3cb-5568be5ee3e0.png" /></a>
- <a href="https://www.java.com/es/download/help/whatis_java.html" title="Java"><img width="60" src="https://user-images.githubusercontent.com/95626566/211169116-91b148ea-ebbc-4c27-bf85-20618ae4fa6a.png" /></a>
-  <a href="https://www.java.com/es/download/help/whatis_java.html" title="Python"><img width="60" src="https://user-images.githubusercontent.com/95626566/211169116-91b148ea-ebbc-4c27-bf85-20618ae4fa6a.png" /></a>
+ <a href="https://www.oracle.com/es/java/" title="Java"><img width="60" src="https://user-images.githubusercontent.com/95626566/211169116-91b148ea-ebbc-4c27-bf85-20618ae4fa6a.png" /></a>
+  <a href="https://aws.amazon.com/es/what-is/python/#:~:text=Python%20es%20un%20lenguaje%20de,ejecutar%20en%20muchas%20plataformas%20diferentes." title="Python"><img width="60" src="https://user-images.githubusercontent.com/95626566/226168698-2498d791-be9e-490f-815b-d7c0507f559c.png" /></a>
  
   ### 🚀 Technologies with i feel comfortable...
   
