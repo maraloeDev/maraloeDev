@@ -16,7 +16,8 @@
  
  ### 📚 I'm currently learning...
  <a href="https://www.javascript.com/" title="JavaScript"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561215-d51e1c92-dcdd-4b62-b3cb-5568be5ee3e0.png" /></a>
- <a href="https://developer.mozilla.org/es/docs/Web/Java" title="Java"><img width="60" src="https://user-images.githubusercontent.com/95626566/211169116-91b148ea-ebbc-4c27-bf85-20618ae4fa6a.png" /></a>
+ <a href="https://www.java.com/es/download/help/whatis_java.html" title="Java"><img width="60" src="https://user-images.githubusercontent.com/95626566/211169116-91b148ea-ebbc-4c27-bf85-20618ae4fa6a.png" /></a>
+  <a href="https://www.java.com/es/download/help/whatis_java.html" title="Python"><img width="60" src="https://user-images.githubusercontent.com/95626566/211169116-91b148ea-ebbc-4c27-bf85-20618ae4fa6a.png" /></a>
  
   ### 🚀 Technologies with i feel comfortable...
   
