@@ -16,7 +16,7 @@
  
  ### 📚 I'm currently learning...
  <a href="https://www.javascript.com/" title="JavaScript"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561215-d51e1c92-dcdd-4b62-b3cb-5568be5ee3e0.png" /></a>
- <a href="https://www.oracle.com/es/java/" title="Java"><img width="60" src="https://user-images.githubusercontent.com/95626566/211169116-91b148ea-ebbc-4c27-bf85-20618ae4fa6a.png" /></a>
+ <a href="https://www.oracle.com/es/java/" title="Java"><img width="60" src="https://user-images.githubusercontent.com/95626566/226169587-52871b8e-7bd5-45e8-9616-1267ff9bcdd3.png" /></a>
   <a href="https://aws.amazon.com/es/what-is/python/#:~:text=Python%20es%20un%20lenguaje%20de,ejecutar%20en%20muchas%20plataformas%20diferentes." title="Python"><img width="60" src="https://user-images.githubusercontent.com/95626566/226168698-2498d791-be9e-490f-815b-d7c0507f559c.png" /></a>
  
   ### 🚀 Technologies with i feel comfortable...
@@ -24,4 +24,4 @@
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" title="HTML"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561046-fd179b77-4145-4550-9a00-04f902f7fa67.png" /></a>
  <a href="https://developer.mozilla.org/es/docs/Web/CSS" title="CSS"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561179-ab5e23a8-19ca-4555-a8fe-c800c89836f9.png" /></a>
  <a href="https://www.javascript.com/" title="JavaScript"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561215-d51e1c92-dcdd-4b62-b3cb-5568be5ee3e0.png" /></a>
- <a href="https://developer.mozilla.org/es/docs/Web/Java" title="Java"><img width="60" src="https://user-images.githubusercontent.com/95626566/211169116-91b148ea-ebbc-4c27-bf85-20618ae4fa6a.png" /></a>
+ <a href="https://developer.mozilla.org/es/docs/Web/Java" title="Java"><img width="60" src="https://user-images.githubusercontent.com/95626566/226169587-52871b8e-7bd5-45e8-9616-1267ff9bcdd3.png" /></a>
