@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/eduardo-mart%C3%ADn-sonseca-b337281ab/" target="blank" style='margin-right:4px'>
      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Eduardo Martín-Sonseca" height="28px" width="28px" />
    </a>
-    <a href="https://www.instagram.com/edumal_sin_mas/" target="blank" style='margin-right:4px'>
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"height="28px" width="28px" />
-   </a>
  </p>
  
  ### 📚 I'm currently learning...
