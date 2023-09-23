@@ -12,6 +12,9 @@
 
 <div align="left">
   <img src="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics" height="30" alt="html5 logo"  />
+  <a href="https://www.linkedin.com/in/eduardo-mart%C3%ADn-sonseca-b337281ab/" target="_blank"></a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+  
   <img width="12" />
   <img src="https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS" height="30" alt="css3 logo"  />
   <img width="12" />
