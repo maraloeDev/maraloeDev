@@ -33,59 +33,64 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Que es HTML5"
       width="30" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://developer.mozilla.org/es/docs/Glossary/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Que es CSS" width="30" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
       alt="Que es JavaScript" width="30" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.java.com/es/download/help/whatis_java.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Que es Java" width="30" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://developer.android.com/kotlin/overview?hl=es-419" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Que es Kotlin"
       width="30" />
   </a>
+  &nbsp;&nbsp;&nbsp;
     <a href="https://www.apple.com/co/swift/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Que es Swift"
         width="30" />
-  
-</a>
+    </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://learn.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Que es C#"
         width="30" />
-</a>
+    </a>
+    &nbsp;&nbsp;&nbsp;
       <a href="https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Fundamentos-de-Git"
         target="_blank">
-</a>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Que es Git"
           width="30" />
-</a>
+      </a>
+      &nbsp;&nbsp;&nbsp;
         <a href="https://developer.android.com/studio/intro?hl=es-419" target="_blank">
-  </a>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
             alt="Que es Android Studio" width="30" />
         </a>
-</a>
+        &nbsp;&nbsp;&nbsp;
         <a href="https://code.visualstudio.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
             alt="Que es Visual Studio Code" width="30" />
         </a>
-</a>
+        &nbsp;&nbsp;&nbsp;
         <a href="https://visualstudio.microsoft.com/es/#vs-section" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
             alt="Que es Visual Studio" width="30" />
-</a></a>
+        </a>
+        &nbsp;&nbsp;&nbsp;
           <a href="https://slack.com/intl/es-es/help/articles/115004071768-%C2%BFQu%C3%A9-es-Slack-" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Que es Slack"
               width="30" />
           </a>
-
 </div>
 
 ###
