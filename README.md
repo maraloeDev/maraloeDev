@@ -110,6 +110,8 @@
   </a>
 </div>
 
+<a href="https://app.daily.dev/eduardomartinsonseca" target="_blank"><img src="https://api.daily.dev/devcards/v2/PNiXdmfXA9HSPjTroDkMx.png?r=qtx&type=wide" width="652" alt="Eduardo Martin-Sonseca's Dev Card"/></a>
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
