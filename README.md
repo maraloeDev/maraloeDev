@@ -3,12 +3,10 @@
 ###
 
 <p align="left">
-  Soy estudiante del Gregorio Fernández y actualmente estoy estudiando 2º de
-  Desarrollo de Aplicaciones Multiplataforma.<br /><br />En 2021 empece en
-  Valladolid un ciclo formativo grado medio de Sistemas Microinformáticos y
+  En 2019 empece en Valladolid un ciclo formativo grado medio de Sistemas Microinformáticos y
   Redes, done aprendi, el montaje de ordenadores, HTML, CSS y un poco de JS,
   administración de redes y subredes (Packet Tracer, Microsoft Visio...), el
-  manejo de algunos sistemas operativos (Microsoft Windows y Ubuntu), la
+  manejo de algunos sistemas operativos en maquinas virtuales (Microsoft Windows y Ubuntu), la
   creación de servidores, unidades de red, en las practicas de grado medio,
   estuve en el departamento de informatica de red hospitalaria Recoletas,
   trabajando en el montaje y transporte de ordenadores de sobremesa, supervisor
@@ -16,7 +14,7 @@
   que empece un nuevo grado superior de Desarrollo de Aplicaciones
   Multiplataforma, donde perfeccione los conocimientos dados en SMR de HTML, CSS
   y JS, adquirí nuevos conocimientos en las bases de datos relacionales (MySQL,
-  MyPHPAdmin....) y en la nube para la realización de consultas (Oracle Live
+  MyPHPAdmin...) y en la nube para la realización de consultas (Oracle Live
   SQL), en la programación con el lenguaje de Java, C# y
   Kotlin, he trabajado con diferentes IDE's (Apache NetBeans, Eclipse, Visual
   Studio Code, Visual Studio e IntelliJIDEA), [...].
