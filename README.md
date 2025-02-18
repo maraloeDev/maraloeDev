@@ -52,9 +52,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Aquí he agregado el enlace correcto para Jetpack Compose -->
   <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Jetpack_Compose_logo.svg" alt="Que es Jetpack Compose" width="30" />
+    <img src="https://developer.android.com/images/spot-icons/jetpack-compose.svg" alt="Que es Jetpack Compose" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
@@ -65,6 +64,21 @@
 
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Que es C#" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.python.org/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Que es Python" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://go.dev/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Que es Go" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.ruby-lang.org/es/documentation/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Que es Ruby" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
@@ -91,21 +105,7 @@
   <a href="https://slack.com/intl/es-es/help/articles/115004071768-%C2%BFQu%C3%A9-es-Slack-" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Que es Slack" width="30" />
   </a>
-
-  <a href="https://www.python.org/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Que es Python" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://go.dev/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Que es Go" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.ruby-lang.org/es/documentation/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Que es Ruby" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  
 </div>
 
 ###
